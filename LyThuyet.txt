@@ -11,4 +11,9 @@
 --------------------Bài 3: Hoisting trong javascript---------------------
 + Hoisting dùng để di chuyển toàn bộ khai báo lên top của scope hiện tại
 + Có thể sử dụng biến trước khi khai báo
-+ 
++ từ khóa var: có trong phạm vi cả hàm
+--------------------Bài 4: từ khóa Let--------------------------------
++ phạm vi trong block
++ không thể khai báo 2 lần
++ không hỗ trợ hoisting
+
