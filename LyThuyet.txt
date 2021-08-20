@@ -1,0 +1,14 @@
+-------------------Bài 1: Giới thiệu tổng quát về ES5 & ES6
++ ECMAScript: là ngôn ngữ script được chuẩn hóa
++ typescript là superset của javascript
+-------------------Bài 2: Cài đặt môi trường----------------------------
++ 1. Install Visual Stadio Code
++ 2. Install NodeJs
++ 3. Create Folder For Source Code
++ 4. Install typescript on npm (npm install typescript -g)
++ 5. CTRL+SHIFT+B => WATHCH MODE => tsc --init
+
+--------------------Bài 3: Hoisting trong javascript---------------------
++ Hoisting dùng để di chuyển toàn bộ khai báo lên top của scope hiện tại
++ Có thể sử dụng biến trước khi khai báo
++ 
